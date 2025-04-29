@@ -6,7 +6,7 @@ This project is a dynamic and interactive **Sales Dashboard** built using **Powe
 
 ## 📊 Dashboard Overview
 
-![Sales Dashboard Screenshot](Sales Dashboard Screenshot.png)
+![Sales Dashboard Screenshot]([Sales Dashboard Screenshot.png)](https://github.com/Bharath-Suresh-16/powerbi-sales-dashboard/blob/121fb557630faee1be1fabcc39ba1116db1d6e90/Sales%20Dashboard%20Screenshot.png)
 
 ---
 
