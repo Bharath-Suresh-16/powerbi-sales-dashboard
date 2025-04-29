@@ -69,5 +69,5 @@ This project demonstrates practical knowledge of:
 ## 📬 Contact
 
 Created by **Bharath**  
-For any queries or collaborations: [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/bharath-s-data/))
+For any queries or collaborations: [LinkedIn]((https://www.linkedin.com/in/bharath-s-data/))
 
