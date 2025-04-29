@@ -6,7 +6,7 @@ This project is a dynamic and interactive **Sales Dashboard** built using **Powe
 
 ## 📊 Dashboard Overview
 
-![Sales Dashboard Screenshot](dashboard-screenshot.png)
+![Sales Dashboard Screenshot](Sales Dashboard Screenshot.png)
 
 ---
 
